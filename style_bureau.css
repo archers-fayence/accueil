@@ -76,7 +76,7 @@
 	.bouton_bureau {
 	margin-left: 10vw;
 	margin-right: 10vw;
-	
+	font-size: 38px;
 }
 	.bureau_container {
 		flex-direction: column;
@@ -84,6 +84,8 @@
 
 	.bureau_membre {
 		width: 90vw;
+		font-size: 3vh;
+
 	}
 
 	.bureau_membre img{
