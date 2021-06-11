@@ -83,9 +83,7 @@ background-color: #B5D5D8!important;
   	font-style: italic;
   	}
 
-.home_container_text span {
-	
-}
+
 
 .intro {
 	padding:3vw;
@@ -226,15 +224,23 @@ background-color: #B5D5D8!important;
 	}
 
 	.home_container_text {
-		font-size:3vh;
+		font-size:4vh;
 	}
 	.articles {
 		flex-direction: column;
 	}
 
 	.articles img{
-		width: 99vw;
+		width: 98vw;
 	}
+
+	.intro h1 {
+	font-size: 20px;
+}
+
+	.les_infos h3{
+	font-size: 20px;
+}
 
 	.footer {
 		flex-direction: column;

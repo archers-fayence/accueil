@@ -46,6 +46,10 @@
 
 
 @media screen and (max-width: 1080px){ 
+
+	.pic {
+  	font-size: 2vh;
+  }
 	.pic img{
 		width: 45vw;
 	}

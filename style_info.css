@@ -19,3 +19,12 @@
 	text-decoration: none;
 	color: #317A95;
 }
+
+@media screen and (max-width: 1080px){
+
+	.info_txt {
+	
+	margin-left: 2vw;
+	margin-right: 2vw;
+}
+ }

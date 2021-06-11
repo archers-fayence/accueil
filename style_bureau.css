@@ -14,7 +14,7 @@
 	text-transform: uppercase;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: bold;
-	font-size: 24px;
+	font-size: 28px;
 }
 
 .bureau_container {
@@ -22,6 +22,7 @@
 	flex-direction: row;
 	justify-content: space-around;
 	flex-wrap: wrap;
+	align-items: center;
 }
 
 .bureau_membre {
@@ -34,6 +35,7 @@
 	background-color: #99BBB2;
 	align-items: center;
 	margin-top: 5vh;
+	font-size: 135%;
 
 }
 
@@ -49,7 +51,7 @@
 
 .bureau_membre h3{
 	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 18px;
+	font-size: 24px;
 	padding-left:2vw;
 	padding-right: 2vw;
 	padding-top: 1vh;
