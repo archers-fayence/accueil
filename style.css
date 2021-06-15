@@ -5,7 +5,7 @@
 
 /* HEADER */
 body {
-	background-color: #B5D5D8;
+
 }
 #revert {
 	display: flex;
@@ -103,7 +103,7 @@ background-color: #B5D5D8!important;
 }
 .article_title {
 	text-align: center;
-
+	background-color: #B5D5D8;
 }
 .articles img{
 	
